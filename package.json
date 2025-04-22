@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "axios": "^1.8.4",
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "ethers": "^5.8.0",
+    "fs": "^0.0.1-security",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6",
+    "readline-sync": "^1.4.10",
+    "socks-proxy-agent": "^8.0.5"
+  }
+}
